@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+<name>talmuth.github.com/pear</name>
+<summary>talmuth's PEAR Channel Server</summary>
+<alias>talmuth</alias>
+<url>http://talmuth.github.com/pear</url>
+</server>

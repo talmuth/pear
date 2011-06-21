@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://talmuth.github.com/pear">
+    <title>talmuth's PEAR Channel Server Latest Releases</title>
+    <link href="http://talmuth.github.com/pear" />
+    <author>
+        <name>http://talmuth.github.com/pear</name>
+    </author>
+
+
+</feed>
